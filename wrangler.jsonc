@@ -1,8 +1,7 @@
 {
-	"name": "my-astro-app",
-	"compatibility_date": "YYYY-MM-DD", // 배포하는 날짜로 업데이트합니다.
+	"name": "blog-v2",
+	"compatibility_date": "2025-11-12", // 배포하는 날짜로 업데이트합니다.
 	"assets": {
-		"binding": "ASSETS",
 		"directory": "./dist"
 	}
 }
