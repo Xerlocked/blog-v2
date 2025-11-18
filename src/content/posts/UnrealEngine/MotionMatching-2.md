@@ -10,7 +10,7 @@ draft: false
 
 # 들어가며
 
-[이전 게시글](https://xerlocked.com/post/unrealengine/motionmatching-1/)에 이어서 언리얼이 기본으로 제공하는 Animation Sample을 가지고 모션매칭을 구현해보도록 하겠습니다.
+[이전 게시글](https://xerlocked.com/posts/unrealengine/motionmatching-1/)에 이어서 언리얼이 기본으로 제공하는 Animation Sample을 가지고 모션매칭을 구현해보도록 하겠습니다.
 
 ## PSD Viewer
 
