@@ -1,11 +1,11 @@
 ---
 title: 서버 점검 없이 실시간 공지사항 띄우기
-published: 2025-12-02
+published: 2025-11-28
 description: 'GameInstanceSubsystem과 JSON 자동 파싱을 이용한 라이브 업데이트 구현 가이드'
 image: './img/cover.png'
 tags: [UnrealEngine, UE5, Subsystem]
 category: 'UnrealEngine'
-draft: true 
+draft: false 
 ---
 
 # 들어가며
